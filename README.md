@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; URL='main.html'" />
+    <meta http-equiv="refresh" content="0; URL='index.html'" />
     <title>Przekierowanie...</title>
   </head>
   <body>
